@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/divya-panduranga-naik-550563229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divya-panduranga-naik-550563229/" height="30" width="40" /></a>
-<a href="https://www.naukri.com/mnjuser/profile?id=&altresid/" target="_blank"><img src="<img width="168" height="28" alt="Naukri Logo - Imgur" src="https://github.com/user-attachments/assets/836b0e2d-aa82-4cb5-b84c-3a689821ef71" />
-" alt="naukri.png" width="40" height="40"/>
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid/" target="_blank"><img src="Downloads/naukri.png" alt="naukri logo" width="40" height="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
