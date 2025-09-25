@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/divya-panduranga-naik-550563229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divya-panduranga-naik-550563229/" height="30" width="40" /></a>
-<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img src="https://imgur.com/gallery/naukri-logo-EJW3P/<img width="168" height="28" alt="undefined - Imgur" src="https://github.com/user-attachments/assets/3fc9a050-177a-4817-adbb-a698d4fe38bf" />
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img src="https://imgur.com/gallery/naukri-logo-EJW3P/<img  alt="undefined - Imgur" src="https://github.com/user-attachments/assets/3fc9a050-177a-4817-adbb-a698d4fe38bf" />
 " alt="naukri logo" width="40" height="40"/></a>
 </p>
 
