@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm DIVYA PANDURANGA NAIK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate in sap abap from India</h3>
 ## Hi there 👋
 
 <!--
