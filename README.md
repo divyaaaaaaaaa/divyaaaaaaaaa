@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/divya-panduranga-naik-550563229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divya-panduranga-naik-550563229/" height="30" width="40" /></a>
-<a href="https://www.naukri.com/mnjuser/profile?id=&altresid/" target="_blank"><img src="https://in.images.search.yahoo.com/search/images;_ylt=AwrKB8s72tRoBAIAYZi7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=naukri+logo&fr2=piv-web&type=E211IN714G91950&fr=mcafee#id=2&iurl=https%3A%2F%2Fwww.logoshape.com%2Fwp-content%2Fuploads%2F2024%2F03%2FNaukri-vector-logo.jpg&action=click" alt="naukri logo" width="40" height="40"/></a>
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid/" target="_blank"><img src="https://in.images.search.yahoo.com/search/images;_ylt=AwrKB8s72tRoBAIAYZi7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=naukri+logo&fr2=piv-web&type=E211IN714G91950&fr=mcafee#id=37&iurl=https%3A%2F%2Fimages-eds-ssl.xboxlive.com%2Fimage%3Furl%3D4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxrTIBuBZizatHdyqsYy9gTb9aW9fHPANgdtp5VXcDfDu_ojK88xUsjbPVPffzXiA.rOhFsYsqvtWttBQUL.yDGk-%26format%3Dsource&action=click" alt="naukri logo" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
