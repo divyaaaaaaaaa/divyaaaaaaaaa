@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/divya-panduranga-naik-550563229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divya-panduranga-naik-550563229/" height="30" width="40" /></a>
 <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank"><img align="center" src="https://github.com/divyaaaaaaaaa/my-assets/blob/main/naukri.jpg" alt="naukri" height="100" width="100"/></a>
-  <a href="https://www.monster.com/profile/detail" target="_blank"><img align="center" src="https://github.com/divyaaaaaaaaa/my-assets/blob/main/monster-jobs_BIG.png" alt="indeed" height="60" width="30"></a>
+  <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-indapply-SmartApply&_ga=2.3318832.1001169202.1758709669-1560665365.1738902267" target="_blank"><img align="center" src="https://github.com/divyaaaaaaaaa/my-assets/blob/main/indeed.png" alt="indeed" height="60" width="30"></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
