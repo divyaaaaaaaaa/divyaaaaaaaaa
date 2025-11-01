@@ -8,8 +8,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Report**
-- 🌱 I’m currently learning **Sap Abap**
-- 👯 I’m looking to collaborate on **SAP ABAP**
+- 🌱 I’m currently learning **SAP HANA**
+- 👯 I’m looking to collaborate on **SAP ABAP & web development, it recruiter **
 
 - 📫 How to reach me: **divyapnaik2000@gmail.com**
 - 
