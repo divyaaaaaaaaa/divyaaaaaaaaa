@@ -35,6 +35,8 @@ Here are some ideas to get you started:
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/divyaaaaaaaaa/my-assets/blob/main/database.png" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/excel/index.php" target="_blank" rel="noreferrer"> <img src="https://github.com/divyaaaaaaaaa/my-assets/blob/main/excel.png" alt="excel" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://github.com/divyaaaaaaaaa/my-assets/blob/main/icons8-python-48.png" alt="excel" width="40" height="40"/> 
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyaaaaaaaaa&show_icons=true&locale=en&layout=compact" alt="divyaaaaaaaaa" /></p>
 
