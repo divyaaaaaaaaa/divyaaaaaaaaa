@@ -39,6 +39,6 @@ Here are some ideas to get you started:
     <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://github.com/divyaaaaaaaaa/my-assets/blob/main/icons8-python-48.png" alt="excel" width="40" height="40"/> 
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyaaaaaaaaa&show_icons=true&locale=en&layout=compact" alt="divyaaaaaaaaa" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyaaaaaaaaa&show_icons=true&locale=en" alt="divyaaaaaaaaa" /></p>
